@@ -1,0 +1,93 @@
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.AssemblyReference.cache
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.frm_DisForm.resources
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.IlacFormlar.frm_IlacListele.resources
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Properties.Resources.resources
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.GenerateResource.cache
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.CoreCompileInputs.cache
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.exe.config
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.exe
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.pdb
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.exe
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.pdb
+C:\Users\Student2\source\repos\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.personelFormlar.personelEkle.resources
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.exe.config
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.exe
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.pdb
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.AssemblyReference.cache
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.SuggestedBindingRedirects.cache
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.frm_DisForm.resources
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.IlacFormlar.frm_IlacListele.resources
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Properties.Resources.resources
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.GenerateResource.cache
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.CoreCompileInputs.cache
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.exe
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.pdb
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.personelFormlar.frm_PersonelEkle.resources
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.personelFormlar.frm_PersonelListele.resources
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.receteFormlar.frm_ReceteEkle.resources
+D:\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.receteFormlar.frm_ReceteListele.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.AssemblyReference.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.SuggestedBindingRedirects.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.frm_DisForm.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.IlacFormlar.frm_IlacListele.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.personelFormlar.frm_PersonelEkle.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.personelFormlar.frm_PersonelListele.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.receteFormlar.frm_ReceteEkle.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.receteFormlar.frm_ReceteListele.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Properties.Resources.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.GenerateResource.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.CoreCompileInputs.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.exe
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.pdb
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.exe.config
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.exe
+D:\enes\dersler\işkur\işkur kurs\hafta_12\15.03.2022\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.pdb
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.exe.config
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.exe
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.pdb
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.AssemblyReference.cache
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.SuggestedBindingRedirects.cache
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.frm_DisForm.resources
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.IlacFormlar.frm_IlacListele.resources
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.personelFormlar.frm_PersonelEkle.resources
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.personelFormlar.frm_PersonelListele.resources
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.receteFormlar.frm_ReceteEkle.resources
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.receteFormlar.frm_ReceteListele.resources
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Properties.Resources.resources
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.GenerateResource.cache
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.CoreCompileInputs.cache
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.exe
+F:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.pdb
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.exe.config
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.exe
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.pdb
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.AssemblyReference.cache
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.SuggestedBindingRedirects.cache
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.frm_DisForm.resources
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.IlacFormlar.frm_IlacListele.resources
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.personelFormlar.frm_PersonelEkle.resources
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.personelFormlar.frm_PersonelListele.resources
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.receteFormlar.frm_ReceteEkle.resources
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.receteFormlar.frm_ReceteListele.resources
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Properties.Resources.resources
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.GenerateResource.cache
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.CoreCompileInputs.cache
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.exe
+D:\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.pdb
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.exe.config
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.exe
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\bin\Debug\hafta12_ders1_eczane.pdb
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.AssemblyReference.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.SuggestedBindingRedirects.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.frm_DisForm.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.IlacFormlar.frm_IlacListele.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.personelFormlar.frm_PersonelEkle.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.personelFormlar.frm_PersonelListele.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.receteFormlar.frm_ReceteEkle.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Formlar.receteFormlar.frm_ReceteListele.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.Properties.Resources.resources
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.GenerateResource.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.csproj.CoreCompileInputs.cache
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.exe
+D:\enes\dersler\işkur\işkur kurs\hafta_13\hafta12_ders1_eczane\hafta12_ders1_eczane\obj\Debug\hafta12_ders1_eczane.pdb
